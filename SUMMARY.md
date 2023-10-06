@@ -90,3 +90,18 @@
   * [🔴 Démons](demon-slayer-uhc-remastered/roles/demons.md)
 * [❓ Particularités](demon-slayer-uhc-remastered/particularites/README.md)
   * [🤺 Marque des Slayers](demon-slayer-uhc-remastered/particularites/marque-des-slayers.md)
+
+## 🍃 The Last Airbender UHC
+
+* [📚 Présentation](the-last-airbender-uhc/presentation.md)
+* [🎲 Rôles](the-last-airbender-uhc/roles/README.md)
+  * [☯ Nations Alliées](the-last-airbender-uhc/roles/nations-alliees/README.md)
+    * [🍃 Nomades de l'Air](the-last-airbender-uhc/roles/nations-alliees/nomades-de-lair/README.md)
+      * [Appa](the-last-airbender-uhc/roles/nations-alliees/nomades-de-lair/appa.md)
+      * [Momo](the-last-airbender-uhc/roles/nations-alliees/nomades-de-lair/momo.md)
+      * [Gyatso](the-last-airbender-uhc/roles/nations-alliees/nomades-de-lair/gyatso.md)
+    * [🌊 Tribus de l'Eau](the-last-airbender-uhc/roles/nations-alliees/tribus-de-leau.md)
+    * [🪨 Royaume de la Terre](the-last-airbender-uhc/roles/nations-alliees/royaume-de-la-terre.md)
+  * [🔥 Nation du Feu](the-last-airbender-uhc/roles/nation-du-feu.md)
+  * [🟠 Rôles Solitaires](the-last-airbender-uhc/roles/roles-solitaires.md)
+* [📑 Table des Effets](the-last-airbender-uhc/table-des-effets.md)
