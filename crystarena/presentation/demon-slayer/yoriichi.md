@@ -10,6 +10,8 @@ Vous possédez une [<mark style="color:green;">**Lame de Nichirin**</mark>](./#l
 
 ## Pouvoirs
 
-{% hint style="danger" %}
+{% hint style="warning" %}
+<mark style="color:$warning;">**Soleil**</mark> _(activable/désactivable)_
+
 Vos coups retirent l'<mark style="color:blue;">**Absorption**</mark> de vos adversaires.
 {% endhint %}

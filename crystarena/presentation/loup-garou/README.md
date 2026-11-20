@@ -27,3 +27,10 @@ description: Voici les rôles inspirés du Loup-Garou UHC de Lapin (plugin priv�
 {% content-ref url="cupidon.md" %}
 [cupidon.md](cupidon.md)
 {% endcontent-ref %}
+
+{% hint style="danger" %}
+Les rôles **Loup-Garou** voient leur équipement **modifié** :
+
+* Leur casque devient un casque en fer <mark style="color:blue;">**Protection 3**</mark>.
+* Leurs effets <mark style="color:blue;">**Force**</mark> sont de 60%.
+{% endhint %}

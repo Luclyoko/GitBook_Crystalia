@@ -2,7 +2,7 @@
 
 * [💎 Crystalia](README.md)
 
-## ⚔ CrystArena
+## ⚔️ CrystArena
 
 * [📚 Présentation](crystarena/presentation/README.md)
   * [⚽ Inazuma Eleven](crystarena/presentation/inazuma-eleven/README.md)
@@ -16,6 +16,7 @@
     * [🟢 Gyomei](crystarena/presentation/demon-slayer/gyomei.md)
     * [🟢 Sanemi](crystarena/presentation/demon-slayer/sanemi.md)
     * [🟢 Tengen](crystarena/presentation/demon-slayer/tengen.md)
+    * [🟢 Sabito](crystarena/presentation/demon-slayer/sabito.md)
     * [🔴 Muzan](crystarena/presentation/demon-slayer/muzan.md)
     * [🔴 Kokushibo](crystarena/presentation/demon-slayer/kokushibo.md)
     * [🔴 Doma](crystarena/presentation/demon-slayer/doma.md)
@@ -39,7 +40,7 @@
   * [👶 Reborn!](crystarena/presentation/reborn/README.md)
     * [🔴 Reborn](crystarena/presentation/reborn/reborn.md)
     * [🔴 Tsuna](crystarena/presentation/reborn/tsuna.md)
-  * [⚔ Attack on Titans](crystarena/presentation/attack-on-titans/README.md)
+  * [⚔️ Attack on Titans](crystarena/presentation/attack-on-titans/README.md)
     * [🟠 Eren](crystarena/presentation/attack-on-titans/eren.md)
     * [🔴 Sieg](crystarena/presentation/attack-on-titans/sieg.md)
     * [🟢 Livaï](crystarena/presentation/attack-on-titans/livai.md)
@@ -55,7 +56,7 @@
     * [⚫ Shinigami](crystarena/presentation/death-note/shinigami.md)
   * [🥷 Naruto](crystarena/presentation/naruto/README.md)
     * [🟢 Asuma](crystarena/presentation/naruto/asuma.md)
-* [🗒 Changelog](crystarena/changelog/README.md)
+* [🗒️ Changelog](crystarena/changelog/README.md)
   * [24/01](crystarena/changelog/24-01.md)
   * [26/01](crystarena/changelog/26-01.md)
   * [18/02](crystarena/changelog/18-02.md)
@@ -95,7 +96,7 @@
 
 * [📚 Présentation](the-last-airbender-uhc/presentation.md)
 * [🎲 Rôles](the-last-airbender-uhc/roles/README.md)
-  * [☯ Nations Alliées](the-last-airbender-uhc/roles/nations-alliees/README.md)
+  * [☯️ Nations Alliées](the-last-airbender-uhc/roles/nations-alliees/README.md)
     * [🍃 Nomades de l'Air](the-last-airbender-uhc/roles/nations-alliees/nomades-de-lair/README.md)
       * [Appa](the-last-airbender-uhc/roles/nations-alliees/nomades-de-lair/appa.md)
       * [Momo](the-last-airbender-uhc/roles/nations-alliees/nomades-de-lair/momo.md)
