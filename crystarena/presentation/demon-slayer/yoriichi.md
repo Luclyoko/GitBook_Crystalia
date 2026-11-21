@@ -1,3 +1,7 @@
+---
+description: Rôle solitaire
+---
+
 # 🟠 Yoriichi
 
 ## Effets

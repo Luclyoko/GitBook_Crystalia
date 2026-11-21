@@ -1,3 +1,7 @@
+---
+description: Rôle solitaire
+---
+
 # 🟠 Loup-Garou Blanc
 
 ## Effets

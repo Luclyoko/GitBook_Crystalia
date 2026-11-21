@@ -1,9 +1,17 @@
+---
+description: Rôle à alliance potentielle
+---
+
 # 🟢 Zenitsu
 
 ## Effets
 
 {% hint style="success" %}
 Vous possédez une [<mark style="color:green;">**Lame de Nichirin**</mark>](./#lame-de-nichirin).
+{% endhint %}
+
+{% hint style="info" %}
+Si [<mark style="color:$warning;">**Jigoro**</mark>](jigoro.md) est dans l'arène, vous avez une probabilité d'être en alliance avec lui et verrez alors une pastille de couleur dans son pseudo.
 {% endhint %}
 
 ## Pouvoirs

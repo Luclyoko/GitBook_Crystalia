@@ -56,10 +56,12 @@
     * [⚫ Shinigami](crystarena/presentation/death-note/shinigami.md)
   * [🥷 Naruto](crystarena/presentation/naruto/README.md)
     * [🟢 Asuma](crystarena/presentation/naruto/asuma.md)
+* [🎽 Groupes](crystarena/groupes.md)
 * [🗒️ Changelog](crystarena/changelog/README.md)
   * [24/01](crystarena/changelog/24-01.md)
   * [26/01](crystarena/changelog/26-01.md)
   * [18/02](crystarena/changelog/18-02.md)
+  * [21/11/2026](crystarena/changelog/21-11-2026.md)
 
 ## 👺 Demon Slayer UHC Remastered
 

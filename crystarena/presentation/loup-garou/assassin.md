@@ -1,3 +1,7 @@
+---
+description: Rôle solitaire
+---
+
 # 🟠 Assassin
 
 ## Effets

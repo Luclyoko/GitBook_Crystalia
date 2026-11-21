@@ -1,4 +1,14 @@
+---
+description: Rôle à alliance potentielle
+---
+
 # 🟡 Bilbon
+
+## Particularités
+
+{% hint style="info" %}
+Si [<mark style="color:yellow;">**Gollum**</mark>](gollum.md) est présent dans l'arène, vous pouvez jouer en alliance et verrez une pastille de couleur dans son pseudo.
+{% endhint %}
 
 ## Effets
 

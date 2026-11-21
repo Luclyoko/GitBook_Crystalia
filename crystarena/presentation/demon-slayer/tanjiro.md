@@ -1,3 +1,7 @@
+---
+description: Rôle à alliance potentielle
+---
+
 # 🟢 Tanjiro
 
 ## Effets
@@ -8,6 +12,10 @@ Vous possédez une [<mark style="color:green;">**Lame de Nichirin**</mark>](./#l
 
 {% hint style="danger" %}
 Si vous parvenez à tuer le démon [_<mark style="color:red;">assassin</mark>_](./#assassin), vous obtiendrez l'effet <mark style="color:blue;">**Strength 1**</mark> permanent.
+{% endhint %}
+
+{% hint style="info" %}
+Si [<mark style="color:$success;">**Nezuko**</mark>](nezuko.md) est dans l'arène, vous êtes autorisé à jouer en alliance et voyez une pastille de couleur dans son pseudo.
 {% endhint %}
 
 ## Pouvoirs
