@@ -1,6 +1,5 @@
 ---
 description: Voici les rôles inspirés de l'univers de Code Lyoko.
-hidden: true
 ---
 
 # 👁️ Code Lyoko
