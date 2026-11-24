@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: update
+    primary: true
+---
+
 # 🟡 Axel Blaze
 
 ## Effets
@@ -9,9 +15,9 @@ Vous disposez de l'effet <mark style="color:blue;">**Strength 1**</mark> permane
 ## Pouvoirs
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Tornade de Feu**</mark> _(cooldown : 4min)_
+<mark style="color:orange;">**Tornade de Feu**</mark> _(cooldown : 2min30)_
 
-Vous permet d'obtenir l'effet <mark style="color:blue;">**Fire Resistance**</mark> pendant 2 minutes ainsi que de **voler** tant que vous n'avez pas subit de dégâts.
+Vous permet d'obtenir l'effet <mark style="color:blue;">**Fire Resistance**</mark> pendant 1 minute ainsi que de **voler** tant que vous n'avez pas subit de dégâts en volant.
 {% endhint %}
 
 {% hint style="info" %}

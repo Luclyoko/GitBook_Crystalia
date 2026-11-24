@@ -1,5 +1,8 @@
 ---
 description: Rôle à alliance potentielle
+tags:
+  - tag: update
+    primary: true
 ---
 
 # 🟢 Tanjiro
@@ -21,7 +24,7 @@ Si [<mark style="color:$success;">**Nezuko**</mark>](nezuko.md) est dans l'arèn
 ## Pouvoirs
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Danse du Dieu du Feu**</mark> _(cooldown : 2min30)_
+<mark style="color:orange;">**Danse du Dieu du Feu**</mark> _(cooldown : 2min)_
 
-Vous permet d'obtenir les effets <mark style="color:blue;">**Speed 1**</mark> et <mark style="color:blue;">**Resistance 1**</mark> pendant 40 secondes ainsi que d'**enflammer** vos adversaires à l'épée.
+Vous permet d'obtenir les effets <mark style="color:blue;">**Speed 1**</mark> et <mark style="color:blue;">**Resistance 1**</mark> pendant 30 secondes ainsi que d'**enflammer** vos adversaires à l'épée.
 {% endhint %}

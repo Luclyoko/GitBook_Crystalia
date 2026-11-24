@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: update
+    primary: true
+---
+
 # 🔴 Flash McQueen
 
 ## Effets
@@ -7,5 +13,6 @@ Vous disposez des effets <mark style="color:blue;">**Speed 1**</mark> et <mark s
 {% endhint %}
 
 {% hint style="danger" %}
-Chaque kill vous rapporte <mark style="color:blue;">**5% de Speed**</mark> mais vous fait perdre <mark style="color:red;">**1/2❤**</mark> permanent.
+Chaque kill vous rapporte <mark style="color:blue;">**10% de Speed**</mark> mais vous fait perdre <mark style="color:red;">**1/2❤**</mark> permanent.
 {% endhint %}
+

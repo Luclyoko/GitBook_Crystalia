@@ -1,3 +1,9 @@
+---
+tags:
+  - tag: update
+    primary: true
+---
+
 # 🟢 Asuma
 
 ## Effets
@@ -15,7 +21,7 @@ Vous disposez d'une épée en fer enchantée <mark style="color:purple;">**Sharp
 ## Pouvoirs
 
 {% hint style="warning" %}
-<mark style="color:blue;">**Nuées Ardentes**</mark> _(cooldown : 3min)_
+<mark style="color:blue;">**Nuées Ardentes**</mark> _(cooldown : 1min)_
 
 Vous permet de tirer un **projectile** créant une **explosion** à l'impact.
 {% endhint %}

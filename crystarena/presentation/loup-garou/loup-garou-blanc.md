@@ -1,8 +1,17 @@
 ---
 description: Rôle solitaire
+tags:
+  - tag: update
+    primary: true
 ---
 
 # 🟠 Loup-Garou Blanc
+
+## Particularités
+
+{% hint style="info" %}
+Vous apparaissez dans la **meute** des <mark style="color:$danger;">**Loups-Garous**</mark> mais n'êtes pas **autorisé à jouer en alliance avec eux**. Vous voyez les autres <mark style="color:$danger;">**Loups-Garous**</mark> avec une **pastille rouge**.
+{% endhint %}
 
 ## Effets
 

@@ -1,5 +1,8 @@
 ---
 description: Rôle solitaire
+tags:
+  - tag: update
+    primary: true
 ---
 
 # 🟠 Yoriichi
@@ -19,3 +22,4 @@ Vous possédez une [<mark style="color:green;">**Lame de Nichirin**</mark>](./#l
 
 Vos coups retirent l'<mark style="color:blue;">**Absorption**</mark> de vos adversaires.
 {% endhint %}
+

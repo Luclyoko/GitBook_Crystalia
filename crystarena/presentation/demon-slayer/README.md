@@ -28,6 +28,10 @@ description: Voici les rôles inspirés du Demon Slayer UHC de GoldenUHC (golden
 [tengen.md](tengen.md)
 {% endcontent-ref %}
 
+{% content-ref url="sabito.md" %}
+[sabito.md](sabito.md)
+{% endcontent-ref %}
+
 {% content-ref url="muzan.md" %}
 [muzan.md](muzan.md)
 {% endcontent-ref %}
@@ -54,6 +58,10 @@ description: Voici les rôles inspirés du Demon Slayer UHC de GoldenUHC (golden
 
 {% content-ref url="jigoro.md" %}
 [jigoro.md](jigoro.md)
+{% endcontent-ref %}
+
+{% content-ref url="shinjuro.md" %}
+[shinjuro.md](shinjuro.md)
 {% endcontent-ref %}
 
 ## <mark style="color:green;">Lame de Nichirin</mark>
