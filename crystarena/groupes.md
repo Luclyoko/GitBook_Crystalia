@@ -28,6 +28,7 @@ Par défaut, vous devez gagner avec **votre ou vos coéquipiers** mais cette con
 
 * [<mark style="color:$warning;">Yoriichi</mark>](presentation/demon-slayer/yoriichi.md)
 * [<mark style="color:$warning;">Jigoro</mark>](presentation/demon-slayer/jigoro.md)
+* [<mark style="color:$warning;">Shinjuro</mark>](presentation/demon-slayer/shinjuro.md)
 
 **Loup-Garou :**&#x20;
 
@@ -42,6 +43,11 @@ Par défaut, vous devez gagner avec **votre ou vos coéquipiers** mais cette con
 **Death Note :**&#x20;
 
 * [Shinigami](presentation/death-note/shinigami.md)
+
+**Code Lyoko :**&#x20;
+
+* [<mark style="color:$info;">William</mark>](presentation/code-lyoko/william.md)
+* [<mark style="color:$danger;">X.A.N.A.</mark>](presentation/code-lyoko/x.a.n.a..md)
 
 {% hint style="danger" %}
 En mode par équipes, les rôles solitaires sont automatiquement révélés lorsqu'il reste **un seul joueur** en vie dans l'une des 2 équipes.
@@ -69,6 +75,12 @@ En mode par équipes, les rôles solitaires sont automatiquement révélés lors
 **Reborn! :**&#x20;
 
 * [<mark style="color:$danger;">Reborn</mark>](presentation/reborn/reborn.md) peut être allié à [<mark style="color:$danger;">Tsuna</mark>](presentation/reborn/tsuna.md)
+
+**Code Lyoko :**&#x20;
+
+* [<mark style="color:blue;">Jérémie</mark>](presentation/code-lyoko/jeremie.md) peut être allié à [<mark style="color:pink;">Aelita</mark>](presentation/code-lyoko/aelita.md)
+* [<mark style="color:yellow;">Ulrich</mark>](presentation/code-lyoko/ulrich.md) peut être allié à [<mark style="color:$info;">Yumi</mark>](presentation/code-lyoko/yumi.md)
+* [<mark style="color:$info;">William</mark>](presentation/code-lyoko/william.md) peut être allié à [<mark style="color:$danger;">X.A.N.A.</mark>](presentation/code-lyoko/x.a.n.a..md)
 
 {% hint style="danger" %}
 En mode par équipes, une alliance entre 2 joueurs ne peut se produire qu'à partir de **5 joueurs minimum** et l'alliance est automatiquement révélée dès lors qu'il reste **4 joueurs ou moins** en vie.
